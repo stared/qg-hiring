@@ -34,10 +34,10 @@ Perks:
 
 If you are interested, send an email to pmigdal+qgjs@gmail.com. Don’t forget to include:
 
-Your current Resume
-If you do have, links to your GitHub and LinkedIn profiles
-What did you find the most fascinating in this project?
-Yout time-space availability
+* Your current Resume
+* If you do have, links to your GitHub and LinkedIn profiles
+* What did you find the most fascinating in this project?
+* Yout time-space availability
 
 We believe that creativity needs honesty, openness, and kindness. We are open to adjustments for your needs (e.g. education, parenting, health, lifestyle etc). We do our best to make this project inclusive. Our default communication tool is Basecamp and we do like synchronous communication. 
 
