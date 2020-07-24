@@ -1,6 +1,6 @@
-# qg-hiring
+# Quantum Game is hiring: JavaScript developer
 
-We are looking for a JavaScript developer for the [Quantum Game](https://quantumgame.io) - an in-browser science based game, and an educational platform. You will work in a remote team of about 7 people with various backgrounds (physics, design, science communication, arts, and programming), for a 2+ year project (we got NCBR grant GameINN!). The current version is <https://quantumgame.io> and we secured funding to push it much further. We start in Sept 2020.
+We are looking for a JavaScript developer for the [Quantum Game](https://quantumgame.io) - an in-browser science based game, and an educational platform. You will work in a remote team of about 7 people with various backgrounds (physics, design, science communication, arts, and programming), for a 2+ year project (we got NCBR grant GameINN and start this September).
 
 Compensation depends on your skill and experience, from the range 22 000 - 13 000 PLN/month on a job contract (“umowa o pracę”). It’s 16 412 - 9 777 PLN/month after taxes (for people living in Poland). Depending on the skill your job title will be Lead GameDev or FrontEnd Developer.
 
@@ -15,7 +15,7 @@ Core requirements:
 
 We don’t expect you to know quantum mechanics :). At the same time, we do expect experience with interactive media (GameDev, data visualization, dashboards). 
 
-Current tech stack is TypeScript + Vue.js + SVG + jest + yarn + Firebase. It will evolve with the project, depending on the gameplay, artistic vision and your expertise. If it turns out that it is more efficient to use WebGL, we will do so. (Expect for TypeScript; we love TypeScript and it stays.).
+Current tech stack is TypeScript + Vue.js + SVG + jest + yarn + Firebase. It will evolve with the project, depending on the gameplay, artistic vision and your expertise. If it turns out that it is more efficient to use WebGL, we will do so. (Expect for TypeScript; [we love TypeScript](https://p.migdal.pl/2020/03/02/types-tests-typescript.html) and it stays.).
 
 Bonus points for:
 
@@ -41,4 +41,4 @@ Yout time-space availability
 
 We believe that creativity needs honesty, openness, and kindness. We are open to adjustments for your needs (e.g. education, parenting, health, lifestyle etc). We do our best to make this project inclusive. Our default communication tool is Basecamp and we do like synchronous communication. 
 
-Some other team members are: [Piotr Migdał, Klem Jankiewicz, Philippe Cochin and Chiara Decaroli](https://medium.com/quantum-photons/https-medium-com-quantum-photons-meet-the-team-37d4f7fcbdd9). 
+Some other team members are: [Piotr Migdał, Klem Jankiewicz, Philippe Cochin and Chiara Decaroli](https://medium.com/quantum-photons/https-medium-com-quantum-photons-meet-the-team-37d4f7fcbdd9). The [general vision stays the same](https://medium.com/quantum-photons/there-will-be-the-next-quantum-game-with-photons-276568d63613).
