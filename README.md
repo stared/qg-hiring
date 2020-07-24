@@ -2,7 +2,7 @@
 
 We are looking for a JavaScript developer for the [Quantum Game](https://quantumgame.io) - an in-browser science based game, and an educational platform. You will work in a remote team of about 7 people with various backgrounds (physics, design, science communication, arts, and programming), for a 2+ year project (we got NCBR grant GameINN and start this September).
 
-Compensation depends on your skill and experience, from the range 22 000 - 13 000 PLN/month on a job contract (“umowa o pracę”). It’s 16 412 - 9 777 PLN/month after taxes (for people living in Poland). Depending on the skill your job title will be Lead GameDev or FrontEnd Developer.
+Compensation depends on your skill and experience, from the range 22 000 - 13 000 PLN/month on a job contract (“umowa o pracę”). It’s 16 412 - 9 777 PLN/month after taxes (for Polish tax rates). Depending on the skill your job title will be Lead GameDev or FrontEnd Developer.
 
 Your first tasks will involve adopting the current state of Quantum Game so it works on mobile devices, writing end-to-end tests, adding game options (e.g. volume) and making level sharing smoother.
 
