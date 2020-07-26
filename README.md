@@ -1,8 +1,8 @@
 # Quantum Game is hiring: JavaScript developer
 
-We are looking for a JavaScript developer for the [Quantum Game](https://quantumgame.io) - an in-browser science based game, and an educational platform. You will work in a remote team of about 7 people with various backgrounds (physics, design, science communication, arts, and programming), for a 2+ year project (we got NCBR grant GameINN and start this September).
+We are looking for a JavaScript developer for the [Quantum Game](https://quantumgame.io) - an in-browser science based game, and an educational platform. You will work in a remote team of about 7 people with various backgrounds (physics, design, science communication, arts, and programming), for a 2+ year project (we just got a European grant GameINN and start this September!).
 
-Compensation depends on your skill and experience, from the range 22 000 - 13 000 PLN/month on a job contract (“umowa o pracę”). It’s 16 412 - 9 777 PLN/month after taxes (for Polish tax rates). Depending on the skill your job title will be Lead GameDev or FrontEnd Developer.
+Compensation depends on your skill and experience, from the range **13000 - 22000 PLN/month** on a job contract (“umowa o pracę”). It’s 9777-16412 PLN/month after taxes (for Polish tax rates). Depending on the skill your job title will be **Lead GameDev** or **FrontEnd Developer**.
 
 Your first tasks will involve adopting the current state of Quantum Game so it works on mobile devices, writing end-to-end tests, adding game options (e.g. volume) and making level sharing smoother.
 
@@ -33,7 +33,7 @@ Perks:
 * We speak communicative JavaScript (yes, yes - including UX/UI and sound artist)
 * You will get a strong machine of your choice (your operating system is up to you!)
 
-If you are interested, send an email to pmigdal+qgjs@gmail.com. Don’t forget to include:
+If you are interested, send an email to [pmigdal+qgjs@gmail.com](mailto:pmigdal+qgjs@gmail.com). Don’t forget to include:
 
 * Your current Resume
 * If you do have, links to your GitHub and LinkedIn profiles
