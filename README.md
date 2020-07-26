@@ -1,6 +1,6 @@
 # Quantum Game is hiring: JavaScript Developer
 
-We are looking for a **JavaScript Developer** for the [Quantum Game](https://quantumgame.io) - an in-browser science-based game, and an educational platform. You will work in a remote team of about 7 people with various backgrounds (physics, design, science communication, arts, and programming), for a 2+ year project (we just got a European grant GameINN and start this September!).
+We are looking for a **JavaScript Developer** for the [Quantum Game](https://quantumgame.io) - an in-browser science-based game, and an educational platform. We have a mission to make quantum mechanics fun and accessible, worldwide! You will work in a remote team of about 7 people with various backgrounds (physics, design, science communication, arts, and programming), for a 2+ year project  - we just got a European grant GameINN and start this September!
 
 Compensation depends on your skill and experience, from the range **13000 - 22000 PLN/month** on a job contract (“umowa o pracę”). It’s 9777-16412 PLN/month after taxes (for Polish tax rates). Your job title will be  **FrontEnd Developer** or **Lead GameDev**, respectively.
 
