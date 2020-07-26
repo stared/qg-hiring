@@ -11,7 +11,8 @@ Core requirements:
 * Proficiency with JavaScript environment
 * Experience with Vue.js or React.js (including reactive sites)
 * Fluent software engineering skills (including good patterns, git, tests)
-* Ability to work remotely (communication, realistic time estimates) 
+* Ability to work remotely (communication, realistic time estimates)
+* Strong team-working skills (you'll be part of a team of scientists, designers, and writers)
 
 We don’t expect you to know quantum mechanics :). At the same time, we do expect experience with interactive media (GameDev, data visualization, dashboards). 
 
@@ -30,7 +31,7 @@ Perks:
 * You will take part in making a cool game, and changing education
 * All code is open-source (<https://github.com/Quantum-Game/>)
 * We speak communicative JavaScript (yes, yes - including UX/UI and sound artist)
-* You will get a strong machine of your choice
+* You will get a strong machine of your choice (your operating system is up to you!)
 
 If you are interested, send an email to pmigdal+qgjs@gmail.com. Don’t forget to include:
 
@@ -39,6 +40,6 @@ If you are interested, send an email to pmigdal+qgjs@gmail.com. Don’t forget t
 * What did you find the most fascinating in this project?
 * Yout time-space availability
 
-We believe that creativity needs honesty, openness, and kindness. We are open to adjustments for your needs (e.g. education, parenting, health, lifestyle etc). We do our best to make this project inclusive. Our default communication tool is Basecamp and we do like synchronous communication. 
+We believe that creativity needs honesty, openness, and kindness. We are open to adjustments for your needs (e.g. education, parenting, health, lifestyle, etc). We do our best to make this project inclusive. Our default communication tool is Basecamp and we do like synchronous communication. 
 
 Some other team members are: [Piotr Migdał, Klem Jankiewicz, Philippe Cochin and Chiara Decaroli](https://medium.com/quantum-photons/https-medium-com-quantum-photons-meet-the-team-37d4f7fcbdd9). The [general vision stays the same](https://medium.com/quantum-photons/there-will-be-the-next-quantum-game-with-photons-276568d63613).
