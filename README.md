@@ -40,6 +40,6 @@ If you are interested, send an email to [pmigdal+qgjs@gmail.com](mailto:pmigdal+
 * What did you find the most fascinating in this project?
 * Your time-space availability
 
-We believe that creativity needs honesty, openness, and kindness. We are open to adjustments for your needs (e.g. education, parenting, health, lifestyle, etc.). We do our best to make this project inclusive. Our default communication tool is Basecamp and we do like synchronous communication. 
+We believe that creativity needs honesty, openness, and kindness. We are open to adjustments for your needs (e.g. education, parenting, health, lifestyle, etc.). We do our best to make this project inclusive. Our default communication tool is Basecamp and we do like asynchronous communication. 
 
 Some other team members are: [Piotr Migdał, Klem Jankiewicz, Philippe Cochin and Chiara Decaroli](https://medium.com/quantum-photons/https-medium-com-quantum-photons-meet-the-team-37d4f7fcbdd9). The [general vision stays the same](https://medium.com/quantum-photons/there-will-be-the-next-quantum-game-with-photons-276568d63613).
